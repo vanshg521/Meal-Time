@@ -1,5 +1,5 @@
 # MealTime - Android Application
-An android application for client to view and take food order from the menu
+An android application for client to view and put food order from the menu
 
 [![mealTime.png](https://i.postimg.cc/fyRWwXNq/mealTime.png)](https://postimg.cc/JDSCxstj)
 
